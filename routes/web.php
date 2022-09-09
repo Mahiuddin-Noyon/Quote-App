@@ -23,4 +23,4 @@ Route::get('/dashboard', function () {
 
 require __DIR__.'/auth.php';
 
-Route::get('request', [testController::class, 'index'])->name('request')->middleware('auth');
+Route::get('quotes', [testController::class, 'index'])->name('quotes')->middleware('auth');
