@@ -29,7 +29,7 @@ A Qute app using kanye api. It can shows different quotes by refreshing every at
 ### Login Details
     -   Login Id : mahiuddin.noyon@gmail.com
     -   Password : 123412345
- 
+    - Alternetively you can register as a new user with your own email and password
 ## Security Vulnerabilities
 
 If you discovered any issue to visite qutes then don't hasited to email me at mahiuddin.noyon@gmail.com
