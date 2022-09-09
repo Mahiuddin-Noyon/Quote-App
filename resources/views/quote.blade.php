@@ -19,7 +19,7 @@
                     <div class="card-title">
                         <h3>Quotes:</h3>
                         <hr>
-                        <a href=" {{route('request')}}" class="btn btn-primary btn-sm float-right py-2">Refresh</a>
+                        <a href=" {{route('quotes')}}" class="btn btn-primary btn-sm float-right py-2">Refresh</a>
                     </div>
                     @for($i = 0; $i<=4; $i++) <div class="card-body border-top">
                         <p>quote: {{$data[rand ( 0 , count($data) -1)]}}</p>
