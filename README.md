@@ -1,3 +1,6 @@
+![quote](https://user-images.githubusercontent.com/96976515/189331191-2b8c7cfd-7675-485c-985e-0da97cc394eb.png)
+
+
 ## A Simple API Based Quote App Using Laravel
 
 A Qute app using kanye api. It can shows different quotes by refreshing every attempt.<br/>
